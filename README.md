@@ -52,10 +52,20 @@ Figure -02 HALF Subtractor
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+Developed by:S.PRIYADHARSHINI
+RegisterNumber:25017590
+*/
+<img width="1914" height="1020" alt="a1" src="https://github.com/user-attachments/assets/8e2bf839-3839-4262-ab62-e3b564dfdf55" />
+<img width="1907" height="1021" alt="a2" src="https://github.com/user-attachments/assets/504815d0-8b83-4a90-a424-5af3ed93b38b" />
 
-**RTL Schematic**
+***output
+<img width="1795" height="897" alt="b1" src="https://github.com/user-attachments/assets/654209f3-bf89-4590-a842-e52445de960c" />
+<img width="1798" height="927" alt="b2" src="https://github.com/user-attachments/assets/37a884d5-9d3f-4dae-af30-7b57eb17a84a" />
 
-**Output/TIMING Waveform**
+
+**TIMING Waveform**
+<img width="1919" height="1014" alt="c1" src="https://github.com/user-attachments/assets/4383ec56-a5d8-4069-b6b8-030966977bed" />
+<img width="1912" height="1012" alt="c2" src="https://github.com/user-attachments/assets/a026a6fa-3cdb-451b-abe7-ef4f06c57c94" />
+
 
 **Result:**
